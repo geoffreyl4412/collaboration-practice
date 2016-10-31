@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is really awesome
 #### 10
-#### 11 Git a life
+#### 11 Hello, git a life
 #### 12
 #### 13
 #### 14
