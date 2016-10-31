@@ -10,6 +10,6 @@
 #### 10
 #### 11 Hello, git a life
 #### 12
-#### 13 Learning by reading rocks
+#### 13 learning by reading sucks and rocks
 #### 14
 #### 15
